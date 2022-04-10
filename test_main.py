@@ -37,7 +37,7 @@ def test_euler_function_calculation_prime(value, result):
 @pytest.mark.parametrize(
     "first,second,third",
     [
-        (165, 11, 16),
+        (165, 11, 15),
         (12, 3, 4),
         (221, 13, 17),
         (494, 19, 26),
